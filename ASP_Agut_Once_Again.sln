@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_Agut_Once_Again", "ASP_Agut_Once_Again\ASP_Agut_Once_Again.csproj", "{47BAFAAD-854B-40DD-9E24-1055DE18107F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47BAFAAD-854B-40DD-9E24-1055DE18107F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BAFAAD-854B-40DD-9E24-1055DE18107F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BAFAAD-854B-40DD-9E24-1055DE18107F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BAFAAD-854B-40DD-9E24-1055DE18107F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75882E1-5B17-4B27-A709-AB8EB61E7C05}
+	EndGlobalSection
+EndGlobal
